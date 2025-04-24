@@ -1,0 +1,7 @@
+asgiref==3.8.1
+Django==5.2
+django-simpleui==2025.1.13
+sqlparse==0.5.3
+typing_extensions==4.13.2
+tzdata==2025.2
+gunicorn==21.2.0
